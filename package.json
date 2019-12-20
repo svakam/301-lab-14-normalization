@@ -1,0 +1,19 @@
+{
+  "name": "301-lab-14-normalization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svakam/301-lab-14-normalization.git"
+  },
+  "author": "Vik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svakam/301-lab-14-normalization/issues"
+  },
+  "homepage": "https://github.com/svakam/301-lab-14-normalization#readme"
+}
